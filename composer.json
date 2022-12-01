@@ -1,0 +1,13 @@
+{
+  "name": "italo-bruno/newtab-shop",
+  "description": "New Tab Shop project for PHP module",
+  "authors": [
+    {
+      "name": "Italo Bruno",
+      "email": "g1brunoyokima@hotmail.com"
+    }
+  ],
+  "autoload": {
+      "psr-4": {"App\\": "./app/"}
+  }
+}
